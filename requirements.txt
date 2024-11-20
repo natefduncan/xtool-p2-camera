@@ -1,0 +1,4 @@
+python-ffmpeg
+requests
+python-dotenv
+pillow

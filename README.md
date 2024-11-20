@@ -1,2 +1,1 @@
-# xtool-p2-camera
-Hack to get xTool P2 laser cutter camera working in Lightburn
+https://github.com/umlaeute/v4l2loopback
